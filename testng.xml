@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="D:/Automation Practice/OrangeHRME2EV126" parallel="classes" thread-count="3">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+        <listener class-name="utilities.Transformer"/>
+    </listeners>
+    <test name="Test1">
+        <classes>
+            <class name="testCases.LoginPageTest"/>
+            <class name="testCases.HomePageTest"/>
+            <class name="testCases.DataDrivenTest"/>
+            <class name="testCases.DBVerificationTest"/>
+            <class name="testCases.APITest"/>
+        </classes>
+    </test>
+</suite>

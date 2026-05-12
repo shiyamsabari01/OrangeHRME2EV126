@@ -1,0 +1,51 @@
+2026-05-12 17:02:03.241 [main] INFO  Utils - [TestNG] Running:
+  D:\Automation Practice\OrangeHRME2EV126\testng.xml
+
+2026-05-12 17:02:03.727 [TestNG-test-Test1-1] INFO  BaseClass - Properties Loaded
+2026-05-12 17:02:03.728 [TestNG-test-Test1-2] INFO  BaseClass - Properties Loaded
+2026-05-12 17:02:03.728 [TestNG-test-Test1-3] INFO  BaseClass - Properties Loaded
+2026-05-12 17:02:12.677 [TestNG-test-Test1-1] INFO  BaseClass - Browser Launched Successfully
+2026-05-12 17:02:12.755 [TestNG-test-Test1-2] INFO  BaseClass - Browser Launched Successfully
+2026-05-12 17:02:14.345 [TestNG-test-Test1-3] INFO  BaseClass - Browser Launched Successfully
+2026-05-12 17:02:14.603 [TestNG-test-Test1-1] INFO  BaseClass - Navigated to Application URL
+2026-05-12 17:02:14.915 [TestNG-test-Test1-1] INFO  LoginPageTest - 29
+2026-05-12 17:02:14.938 [TestNG-test-Test1-1] INFO  LoginPageTest - Provide Invalid Username and Password
+2026-05-12 17:02:15.231 [TestNG-test-Test1-2] INFO  BaseClass - Navigated to Application URL
+2026-05-12 17:02:15.250 [TestNG-test-Test1-2] INFO  HomePageTest - 30
+2026-05-12 17:02:15.250 [TestNG-test-Test1-2] INFO  HomePageTest - Provide Valid Username and Password
+2026-05-12 17:02:15.792 [TestNG-test-Test1-3] INFO  BaseClass - Navigated to Application URL
+2026-05-12 17:02:19.625 [TestNG-test-Test1-3] INFO  DataDrivenTest - 31
+2026-05-12 17:02:19.625 [TestNG-test-Test1-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-12 17:02:21.499 [TestNG-test-Test1-2] INFO  HomePageTest - Successfully Logged into Application
+2026-05-12 17:02:21.648 [TestNG-test-Test1-1] INFO  LoginPageTest - Error message is displayed
+2026-05-12 17:02:21.663 [TestNG-test-Test1-1] INFO  LoginPageTest - 29
+2026-05-12 17:02:21.663 [TestNG-test-Test1-1] INFO  LoginPageTest - Provide Valid Username and Password
+2026-05-12 17:02:22.845 [TestNG-test-Test1-2] INFO  HomePageTest - Dashboard is Displayed
+2026-05-12 17:02:23.565 [TestNG-test-Test1-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-12 17:02:24.696 [TestNG-test-Test1-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-12 17:02:26.476 [TestNG-test-Test1-1] INFO  LoginPageTest - Successfully Logged into Application
+2026-05-12 17:02:28.125 [TestNG-test-Test1-1] INFO  LoginPageTest - Dashboard is Displayed
+2026-05-12 17:02:30.070 [TestNG-test-Test1-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-12 17:02:30.090 [TestNG-test-Test1-3] INFO  DataDrivenTest - 31
+2026-05-12 17:02:30.090 [TestNG-test-Test1-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-12 17:02:32.392 [TestNG-test-Test1-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-12 17:02:33.186 [TestNG-test-Test1-1] INFO  LoginPageTest - Successfully Logged Out
+2026-05-12 17:02:34.372 [TestNG-test-Test1-1] INFO  BaseClass - Browser Closed Successfully
+2026-05-12 17:02:34.375 [TestNG-test-Test1-1] INFO  BaseClass - Properties Loaded
+2026-05-12 17:02:34.450 [TestNG-test-Test1-2] INFO  BaseClass - Browser Closed Successfully
+2026-05-12 17:02:35.777 [TestNG-test-Test1-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-12 17:02:37.756 [TestNG-test-Test1-1] INFO  BaseClass - Browser Launched Successfully
+2026-05-12 17:02:40.234 [TestNG-test-Test1-1] INFO  BaseClass - Navigated to Application URL
+2026-05-12 17:02:45.238 [TestNG-test-Test1-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-12 17:02:45.267 [TestNG-test-Test1-3] INFO  DataDrivenTest - 31
+2026-05-12 17:02:45.267 [TestNG-test-Test1-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-12 17:02:49.822 [TestNG-test-Test1-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-12 17:02:50.734 [TestNG-test-Test1-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-12 17:02:55.545 [TestNG-test-Test1-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-12 17:02:55.552 [TestNG-test-Test1-3] INFO  DataDrivenTest - 31
+2026-05-12 17:02:55.552 [TestNG-test-Test1-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-12 17:02:57.660 [TestNG-test-Test1-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-12 17:02:59.777 [TestNG-test-Test1-1] INFO  BaseClass - Browser Closed Successfully
+2026-05-12 17:03:00.027 [TestNG-test-Test1-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-12 17:03:02.716 [TestNG-test-Test1-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-12 17:03:03.133 [TestNG-test-Test1-3] INFO  BaseClass - Browser Closed Successfully
