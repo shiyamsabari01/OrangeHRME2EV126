@@ -1,0 +1,99 @@
+2026-05-14 13:28:04.214 [main] INFO  Utils - [TestNG] Running:
+  D:\Automation Practice\OrangeHRME2EV126\testng.xml
+
+2026-05-14 13:28:04.505 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  BaseClass - Properties Loaded
+2026-05-14 13:28:04.505 [TestNG-test-OrangeHRM_ChromeTest-2] INFO  BaseClass - Properties Loaded
+2026-05-14 13:28:04.505 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  BaseClass - Properties Loaded
+2026-05-14 13:28:04.505 [TestNG-test-OrangeHRM_ChromeTest-4] INFO  BaseClass - Properties Loaded
+2026-05-14 13:28:10.058 [TestNG-test-OrangeHRM_ChromeTest-2] INFO  BaseClass - Browser Launched Successfully
+2026-05-14 13:28:10.058 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  BaseClass - Browser Launched Successfully
+2026-05-14 13:28:10.060 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  BaseClass - Browser Launched Successfully
+2026-05-14 13:28:10.081 [TestNG-test-OrangeHRM_ChromeTest-4] INFO  BaseClass - Browser Launched Successfully
+2026-05-14 13:28:12.883 [TestNG-test-OrangeHRM_ChromeTest-2] INFO  BaseClass - Navigated to Application URL
+2026-05-14 13:28:12.951 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  BaseClass - Navigated to Application URL
+2026-05-14 13:28:13.106 [TestNG-test-OrangeHRM_ChromeTest-2] INFO  HomePageTest - 30
+2026-05-14 13:28:13.106 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  LoginPageTest - 29
+2026-05-14 13:28:13.107 [TestNG-test-OrangeHRM_ChromeTest-2] INFO  HomePageTest - Provide Valid Username and Password
+2026-05-14 13:28:13.107 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  LoginPageTest - Provide Invalid Username and Password
+2026-05-14 13:28:13.793 [TestNG-test-OrangeHRM_ChromeTest-4] INFO  BaseClass - Navigated to Application URL
+2026-05-14 13:28:22.673 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  LoginPageTest - Error message is displayed
+2026-05-14 13:28:22.681 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  LoginPageTest - 29
+2026-05-14 13:28:22.681 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  LoginPageTest - Provide Valid Username and Password
+2026-05-14 13:28:22.811 [TestNG-test-OrangeHRM_ChromeTest-2] INFO  HomePageTest - Successfully Logged into Application
+2026-05-14 13:28:24.588 [TestNG-test-OrangeHRM_ChromeTest-2] INFO  HomePageTest - Dashboard is Displayed
+2026-05-14 13:28:25.122 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  LoginPageTest - Successfully Logged into Application
+2026-05-14 13:28:29.849 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  LoginPageTest - Dashboard is Displayed
+2026-05-14 13:28:34.789 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  LoginPageTest - Successfully Logged Out
+2026-05-14 13:28:37.538 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  BaseClass - Navigated to Application URL
+2026-05-14 13:28:37.818 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - 31
+2026-05-14 13:28:37.819 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-14 13:28:39.211 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-14 13:28:40.162 [TestNG-test-OrangeHRM_ChromeTest-2] INFO  BaseClass - Browser Closed Successfully
+2026-05-14 13:28:40.898 [TestNG-test-OrangeHRM_ChromeTest-1] INFO  BaseClass - Browser Closed Successfully
+2026-05-14 13:28:42.275 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-14 13:28:46.738 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-14 13:28:46.760 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - 31
+2026-05-14 13:28:46.760 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-14 13:28:48.412 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-14 13:28:50.892 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-14 13:28:54.015 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-14 13:28:54.025 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - 31
+2026-05-14 13:28:54.027 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-14 13:28:55.290 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-14 13:28:57.344 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-14 13:29:00.014 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-14 13:29:00.021 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - 31
+2026-05-14 13:29:00.022 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-14 13:29:01.237 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-14 13:29:03.338 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-14 13:29:05.764 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-14 13:29:06.148 [TestNG-test-OrangeHRM_ChromeTest-3] INFO  BaseClass - Browser Closed Successfully
+2026-05-14 13:30:43.823 [TestNG-test-OrangeHRM_ChromeTest-4] INFO  BaseClass - Browser Closed Successfully
+2026-05-14 13:30:45.177 [TestNG-test-OrangeHRM_EdgeTest-2] INFO  BaseClass - Properties Loaded
+2026-05-14 13:30:45.179 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  BaseClass - Properties Loaded
+2026-05-14 13:30:45.180 [TestNG-test-OrangeHRM_EdgeTest-4] INFO  BaseClass - Properties Loaded
+2026-05-14 13:30:45.180 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  BaseClass - Properties Loaded
+2026-05-14 13:30:50.633 [TestNG-test-OrangeHRM_EdgeTest-2] INFO  BaseClass - Browser Launched Successfully
+2026-05-14 13:30:50.804 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  BaseClass - Browser Launched Successfully
+2026-05-14 13:30:50.885 [TestNG-test-OrangeHRM_EdgeTest-4] INFO  BaseClass - Browser Launched Successfully
+2026-05-14 13:30:51.170 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  BaseClass - Browser Launched Successfully
+2026-05-14 13:30:52.586 [TestNG-test-OrangeHRM_EdgeTest-2] INFO  BaseClass - Navigated to Application URL
+2026-05-14 13:30:52.588 [TestNG-test-OrangeHRM_EdgeTest-2] INFO  HomePageTest - 57
+2026-05-14 13:30:52.588 [TestNG-test-OrangeHRM_EdgeTest-2] INFO  HomePageTest - Provide Valid Username and Password
+2026-05-14 13:30:53.615 [TestNG-test-OrangeHRM_EdgeTest-4] INFO  BaseClass - Navigated to Application URL
+2026-05-14 13:30:54.036 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  BaseClass - Navigated to Application URL
+2026-05-14 13:30:54.205 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  BaseClass - Navigated to Application URL
+2026-05-14 13:30:54.219 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  LoginPageTest - 56
+2026-05-14 13:30:54.231 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  LoginPageTest - Provide Invalid Username and Password
+2026-05-14 13:30:54.475 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - 58
+2026-05-14 13:30:54.476 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-14 13:30:58.143 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-14 13:31:00.614 [TestNG-test-OrangeHRM_EdgeTest-2] INFO  HomePageTest - Successfully Logged into Application
+2026-05-14 13:31:02.387 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  LoginPageTest - Error message is displayed
+2026-05-14 13:31:02.427 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  LoginPageTest - 56
+2026-05-14 13:31:02.479 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  LoginPageTest - Provide Valid Username and Password
+2026-05-14 13:31:02.729 [TestNG-test-OrangeHRM_EdgeTest-2] INFO  HomePageTest - Dashboard is Displayed
+2026-05-14 13:31:03.631 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-14 13:31:10.625 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-14 13:31:10.626 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  LoginPageTest - Successfully Logged into Application
+2026-05-14 13:31:10.630 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - 58
+2026-05-14 13:31:10.631 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-14 13:31:11.896 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  LoginPageTest - Dashboard is Displayed
+2026-05-14 13:31:15.996 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-14 13:31:16.402 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  LoginPageTest - Successfully Logged Out
+2026-05-14 13:31:16.963 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-14 13:31:20.084 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-14 13:31:20.087 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - 58
+2026-05-14 13:31:20.088 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-14 13:31:20.141 [TestNG-test-OrangeHRM_EdgeTest-2] INFO  BaseClass - Browser Closed Successfully
+2026-05-14 13:31:20.893 [TestNG-test-OrangeHRM_EdgeTest-1] INFO  BaseClass - Browser Closed Successfully
+2026-05-14 13:31:21.185 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-14 13:31:23.220 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-14 13:31:25.837 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-14 13:31:25.839 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - 58
+2026-05-14 13:31:25.839 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Provide Valid Username and Password
+2026-05-14 13:31:28.179 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Successfully Logged into Application
+2026-05-14 13:31:28.974 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Dashboard is Displayed
+2026-05-14 13:31:31.257 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  DataDrivenTest - Successfully Logged Out
+2026-05-14 13:31:31.705 [TestNG-test-OrangeHRM_EdgeTest-3] INFO  BaseClass - Browser Closed Successfully
+2026-05-14 13:33:22.332 [TestNG-test-OrangeHRM_EdgeTest-4] INFO  BaseClass - Browser Closed Successfully

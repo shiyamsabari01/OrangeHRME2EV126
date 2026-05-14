@@ -20,14 +20,16 @@ import java.util.Date;
 public class BaseClass {
     private final static Logger logger = LoggerManager.getLogger(BaseClass.class);
 
+
     @BeforeClass
-    public void setup() {
+    @Parameters("browser")
+    public void setup(String browser) {
         try {
             ReadConfigProp readConfigProp = new ReadConfigProp();
             readConfigProp.loadProperties();
             logger.info("Properties Loaded");
 
-            DriverManager.loadBrowser();
+            DriverManager.loadBrowser(browser);
             logger.info("Browser Launched Successfully");
             DriverManager.getDriver().navigate().to(Constants.APP_URL);
             logger.info("Navigated to Application URL");

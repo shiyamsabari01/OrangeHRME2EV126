@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="D:/Automation Practice/OrangeHRME2EV126" parallel="classes" thread-count="3">
+<suite name="D:/Automation Practice/OrangeHRME2EV126" parallel="classes" thread-count="10">
     <listeners>
         <listener class-name="utilities.ExtentReportManager"/>
         <listener class-name="utilities.Transformer"/>
     </listeners>
-    <test name="Test1">
+    <test name="OrangeHRM_ChromeTest">
+        <parameter name="browser" value="chrome"/>
         <classes>
             <class name="testCases.LoginPageTest"/>
             <class name="testCases.HomePageTest"/>
@@ -14,4 +15,24 @@
             <class name="testCases.APITest"/>
         </classes>
     </test>
+    <test name="OrangeHRM_EdgeTest">
+        <parameter name="browser" value="edge"/>
+        <classes>
+            <class name="testCases.LoginPageTest"/>
+            <class name="testCases.HomePageTest"/>
+            <class name="testCases.DataDrivenTest"/>
+            <class name="testCases.DBVerificationTest"/>
+            <class name="testCases.APITest"/>
+        </classes>
+    </test>
+    <!--<test name="OrangeHRM_FirefoxTest">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="testCases.LoginPageTest"/>
+            <class name="testCases.HomePageTest"/>
+            <class name="testCases.DataDrivenTest"/>
+            <class name="testCases.DBVerificationTest"/>
+            <class name="testCases.APITest"/>
+        </classes>
+    </test>-->
 </suite>

@@ -23,6 +23,8 @@ public class ReadConfigProp {
         Constants.USERNAME = properties.getProperty("username");
         Constants.PASSWORD = properties.getProperty("password");
         Constants.EXP_WAIT = Integer.parseInt(properties.getProperty("explicitWait"));
+        Constants.SELENIUM_GRID= properties.getProperty("selenium_grid");
+        Constants.GRID_URL=properties.getProperty("gridURL");
     }
 
 }
